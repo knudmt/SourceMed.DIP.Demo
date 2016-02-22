@@ -1,0 +1,12 @@
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Contracts\bin\Debug\SourceMed.DIP.Contracts.dll
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Contracts\bin\Debug\SourceMed.DIP.Contracts.pdb
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Contracts\bin\Debug\SourceMed.DIP.Inverted.Demo.dll
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Contracts\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Contracts\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Contracts\bin\Debug\SourceMed.DIP.Inverted.Demo.pdb
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Contracts\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Contracts\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Contracts\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Contracts\obj\Debug\SourceMed.DIP.Contracts.dll
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Contracts\obj\Debug\SourceMed.DIP.Contracts.pdb
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Contracts\obj\Debug\SourceMed.DIP.Contracts.csprojResolveAssemblyReference.cache

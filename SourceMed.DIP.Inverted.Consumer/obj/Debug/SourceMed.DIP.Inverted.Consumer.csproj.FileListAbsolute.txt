@@ -1,0 +1,13 @@
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Inverted.Consumer\bin\Debug\SourceMed.DIP.Inverted.Consumer.exe.config
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Inverted.Consumer\bin\Debug\SourceMed.DIP.Inverted.Consumer.exe
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Inverted.Consumer\bin\Debug\SourceMed.DIP.Inverted.Consumer.pdb
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Inverted.Consumer\bin\Debug\SourceMed.DIP.Inverted.Demo.dll
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Inverted.Consumer\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Inverted.Consumer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Inverted.Consumer\bin\Debug\SourceMed.DIP.Inverted.Demo.pdb
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Inverted.Consumer\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Inverted.Consumer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Inverted.Consumer\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Inverted.Consumer\obj\Debug\SourceMed.DIP.Inverted.Consumer.csprojResolveAssemblyReference.cache
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Inverted.Consumer\obj\Debug\SourceMed.DIP.Inverted.Consumer.exe
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP.Inverted.Consumer\obj\Debug\SourceMed.DIP.Inverted.Consumer.pdb

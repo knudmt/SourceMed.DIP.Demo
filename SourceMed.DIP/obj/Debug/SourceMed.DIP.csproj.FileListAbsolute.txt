@@ -1,0 +1,4 @@
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP\bin\Debug\SourceMed.DIP.dll
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP\bin\Debug\SourceMed.DIP.pdb
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP\obj\Debug\SourceMed.DIP.dll
+C:\Users\knudsenm\Documents\Visual Studio 2015\Projects\SourceMed.DIP.Demo\SourceMed.DIP\obj\Debug\SourceMed.DIP.pdb

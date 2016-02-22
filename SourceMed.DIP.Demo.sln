@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceMed.DIP.Inverted.Demo", "SourceMed.DIP.Inverted.Demo\SourceMed.DIP.Inverted.Demo.csproj", "{FD6E07EA-FBDB-4919-A0EC-A6A91867D33C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceMed.DIP.Inverted.Demo.Tests", "SourceMed.DIP.Inverted.Demo.Tests\SourceMed.DIP.Inverted.Demo.Tests.csproj", "{CF1FF431-6ACA-4A46-8A82-9D43FA5523A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceMed.DIP.Inverted.Consumer", "SourceMed.DIP.Inverted.Consumer\SourceMed.DIP.Inverted.Consumer.csproj", "{CB321FF0-4CED-4CCC-BCE1-3AD636724D99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceMed.DIP", "SourceMed.DIP\SourceMed.DIP.csproj", "{3642D751-93C1-41AB-80E0-4007324B74F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contracts", "Contracts", "{38BF10BF-0E31-40C0-9032-03A0C48DF1C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceMed.DIP.Contracts", "SourceMed.DIP.Contracts\SourceMed.DIP.Contracts.csproj", "{EFFDBECC-2696-4028-AC96-078747710A26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD6E07EA-FBDB-4919-A0EC-A6A91867D33C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6E07EA-FBDB-4919-A0EC-A6A91867D33C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6E07EA-FBDB-4919-A0EC-A6A91867D33C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6E07EA-FBDB-4919-A0EC-A6A91867D33C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF1FF431-6ACA-4A46-8A82-9D43FA5523A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1FF431-6ACA-4A46-8A82-9D43FA5523A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF1FF431-6ACA-4A46-8A82-9D43FA5523A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF1FF431-6ACA-4A46-8A82-9D43FA5523A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB321FF0-4CED-4CCC-BCE1-3AD636724D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB321FF0-4CED-4CCC-BCE1-3AD636724D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB321FF0-4CED-4CCC-BCE1-3AD636724D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB321FF0-4CED-4CCC-BCE1-3AD636724D99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3642D751-93C1-41AB-80E0-4007324B74F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3642D751-93C1-41AB-80E0-4007324B74F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3642D751-93C1-41AB-80E0-4007324B74F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3642D751-93C1-41AB-80E0-4007324B74F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFFDBECC-2696-4028-AC96-078747710A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFFDBECC-2696-4028-AC96-078747710A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFFDBECC-2696-4028-AC96-078747710A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFFDBECC-2696-4028-AC96-078747710A26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EFFDBECC-2696-4028-AC96-078747710A26} = {38BF10BF-0E31-40C0-9032-03A0C48DF1C9}
+	EndGlobalSection
+EndGlobal
